@@ -1,0 +1,20 @@
+{
+  "name": "hlyras-npm-module",
+  "version": "1.0.0",
+  "description": "A simple npm module  example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hlyras/hlyras-npm-module.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hlyras/hlyras-npm-module/issues"
+  },
+  "homepage": "https://github.com/hlyras/hlyras-npm-module#readme"
+}
